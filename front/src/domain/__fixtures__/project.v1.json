@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "project_demo",
+  "name": "Java 기초 강의",
+  "createdAt": "2026-11-25T00:00:00.000Z",
+  "updatedAt": "2026-11-25T00:00:00.000Z",
+  "canvas": {
+    "width": 1280,
+    "height": 720,
+    "backgroundColor": "#FFFFFF"
+  },
+  "activeThemeId": "theme_default",
+  "themes": [
+    {
+      "id": "theme_default",
+      "name": "기본 테마",
+      "colors": {
+        "primary": "#2563EB",
+        "secondary": "#64748B",
+        "accent": "#F59E0B",
+        "background": "#FFFFFF",
+        "surface": "#F8FAFC",
+        "text": "#172033",
+        "mutedText": "#64748B",
+        "border": "#E2E8F0"
+      },
+      "typography": {
+        "headingFontFamily": "Pretendard, sans-serif",
+        "bodyFontFamily": "Pretendard, sans-serif",
+        "codeFontFamily": "Consolas, monospace",
+        "titleSize": 48,
+        "bodySize": 24
+      }
+    }
+  ],
+  "masters": [],
+  "layouts": [],
+  "slides": [
+    {
+      "id": "slide_001",
+      "title": "Java 변수와 자료형",
+      "elements": [
+        {
+          "id": "element_001",
+          "type": "text",
+          "content": "Java 변수와 자료형",
+          "position": {
+            "x": 80,
+            "y": 70,
+            "width": 900,
+            "height": 100,
+            "zIndex": 1
+          },
+          "visible": true,
+          "locked": false,
+          "style": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#172033",
+            "textAlign": "left",
+            "verticalAlign": "middle"
+          }
+        }
+      ],
+      "animations": [],
+      "createdAt": "2026-11-25T00:00:00.000Z",
+      "updatedAt": "2026-11-25T00:00:00.000Z"
+    }
+  ],
+  "assetRefs": []
+}
